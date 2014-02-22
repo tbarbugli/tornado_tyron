@@ -81,3 +81,7 @@ in supervisord.conf to something higher than the default (1024) values (tyron wi
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tbarbugli/tornado_tyron/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
